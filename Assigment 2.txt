@@ -1,0 +1,10 @@
+                              Mobile Application Development
+Lacture 3:
+a. there are two type of language high degree and lower
+b. Dart is the one of the most popular programming language, used by software engineer and developer  
+c. dart is better then javascrpit in the deveplong field.
+d. flutter is a developing kit creeted by google.
+e. flutter use for multiple plateform like IOS, Android, web development.
+f. dart and flutter is fast developing resourese that take less time to consume in briging the new, innovative 
+   idea to helps people.
+
